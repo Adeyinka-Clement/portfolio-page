@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    /* background: rgb(13, 13, 14); */
+    background: linear-gradient(90deg, rgb(24, 23, 23) 0%, rgb(24, 23, 23) 40%, rgb(105, 107, 107) 100%);
+    color: white;
+}
+.navbar{
+    display: flex;
+    border: 1px solid rgb(73, 73, 73);
+}
+.logo h1{
+    color: white;
+    font-size: 170px;
+    text-align: left;
+    margin-left: 130px;
+    margin-top: -30px;
+    font-weight: bolder ;
+    
+}
+.navlist li{
+    color: white;
+    display: inline-flex;
+    text-decoration: none !important;
+    padding: 25px;
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+
+.navcontent{
+    margin-top: 50px;
+    margin-left: 200px;
+    
+}
+.intro{
+    margin-left: 130px;
+    margin-top: 80px;
+    
+}
+.intro p{
+    padding: 5px;
+    font-weight: 650;
+    font-size: 40px;
+    line-height: 55.5px;
+    position: relative;
+    
+}
+.hi{
+    font-size: x-large !important;
+    font-weight: 300 !important;
+}
+.arrow{
+    /* padding: 2px; */
+    font-size: 25px;
+    margin-top: -4px;
+    font-weight: bolder;
+}
+.intro2 p{
+    margin-left: 130px;
+    padding: 8px;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 32.4PX;
+    font-family: ;
+}
+a .btn p{
+    border: 3px solid white;
+    display: inline;
+    padding: 15px;
+    font-weight: bolder;
+    text-decoration: none !important;
+    color: white;
+    font-size: 20px !important;
+}
+.btn {
+    margin-top: 40px;
+}
+.section{
+    display: flex;
+}
+.second{
+    margin-left: 150px;
+    
+}
+.myimg{
+    margin-top: -100px;
+}
+.whatsapp{
+    width: 170px;
+    
+    border: 1px solid white
+    
+    
+}
+.whatsappdiv a{
+
+/* /* } */
+@media screen and (max-width: 475px) {
+    body{
+        /* background: rgb(13, 13, 14); */
+        background: linear-gradient(90deg, rgb(24, 23, 23) 0%, rgb(24, 23, 23) 40%, rgb(105, 107, 107) 100%);
+        color: white;
+    }
+    .navbar{
+        display: flex;
+        border: 1px solid rgb(73, 73, 73);
+    }
+    .logo h1{
+        color: white;
+        font-size: 100px;
+        text-align: left;
+        margin-left: 65px;
+        margin-top: -15px;
+        font-weight: bolder ;
+        
+    }
+    .navlist li{
+        color: white;
+        display: inline-flex;
+        text-decoration: none !important;
+        padding: 10px;
+        font-size: 9px;
+        font-weight: bolder;
+        
+    }
+    
+    .navcontent{
+        margin-top: 25px;
+        margin-left: 100px;
+        
+    }
+    .intro{
+        margin-left: 65px;
+        margin-top: 40px;
+        
+    }
+    .intro p{
+        padding: 3px;
+        font-weight: 325;
+        font-size: 20px;
+        line-height: 22.5px;
+        position: relative;
+        
+    }
+    .hi{
+        font-size: x-large !important;
+        font-weight: 150 !important;
+    }
+    .arrow{
+        /* padding: 2px; */
+        font-size: 15px;
+        margin-top: -2px;
+        font-weight: bold;
+    }
+    .intro2 p{
+        margin-left: 65px;
+        padding: 4px;
+        font-size: 15px;
+        font-weight: 150;
+        line-height: 17.4PX;
+        font-family: ;
+    }
+    a .btn p{
+        border: 2px solid white;
+        display: inline;
+        padding: 8px;
+        font-weight: bold;
+        text-decoration: none !important;
+        color: white;
+        font-size: 10px !important;
+    }
+    .btn {
+        margin-top: 20px;
+    }
+    .section{
+        display: flex;
+    }
+    .second{
+        margin-left: 75px;
+        
+    }
+    .myimg{
+        margin-top: -50px;
+    }
+    .whatsapp{
+        width: 80px;
+        
+        border: 1px solid white
+        
+        
+    }
+    .whatsappdiv a{
+    
+    }
+} */
+
+
+
+
+
+
+
+
